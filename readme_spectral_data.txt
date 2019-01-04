@@ -1,7 +1,7 @@
 %% Akshatha K V (PHYS115) Guide: Prof.Udaya Shankar N
 %  Raman Research Institute
 %  This readme file gives information about the data set used in all the analysis programs.
-
+Detailed Report: http://reports.ias.ac.in/report/13382/application-of-wavelets-for-the-detection-of-the-global-21cm-signal-from-the-epoch-of-reionisation
 
 The spectral_data.txt contains the data used in all the programs. 
 The first column is frequency.
